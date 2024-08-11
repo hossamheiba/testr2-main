@@ -1,0 +1,27 @@
+1- user management
+  . add any user in form request databse my username & password 
+  . dont show all role until Parent role by superadmin
+  . repetition Reporting To if chose admin
+  . image big size 1M
+  . debug edit role admin 
+
+2- master
+  .Shift - done
+
+  .Holiday - done 
+
+  .Leave Reason 
+    - there is no No of leave allowed in sort dashboard 
+
+  . Document Type - done  
+
+  .  Location
+    - there is no Contact Person in sort dashboard 
+
+  . Department - done  
+  . Designation - done  
+  . Company document 
+     - there is no button delete by super admin 
+     - Add New Document choose more than role name 
+  
+edit profile
